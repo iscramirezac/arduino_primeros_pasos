@@ -3,8 +3,10 @@
 ### Materiales
 
 * Arduino
-* LED 
-* Resistencia de 330 Oms
+* Equipo de cómputo
+* Cable USB
+* Diodo LED
+* Resistencia de 220 Oms o 330 Oms
 
 Conectar de acuerdo al diagrama:
 
