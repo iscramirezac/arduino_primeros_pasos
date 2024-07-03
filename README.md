@@ -14,7 +14,7 @@ Arduino es una plataforma de hardware libre basada en una placa con un microcont
 * [Practica 6](./Practicas/Prac6/Prac6.ino)
 * [Practica 7](./Practicas/Prac7/Prac7.ino)
 * [Practica 8](./Practicas/Prac8/Prac8.ino)
-* [Practica 9](./Practicas/Prac8/Prac9.ino)
+* [Practica 9](./Practicas/Prac9/Prac9.ino)
 
 
 ## Instalación del Software
